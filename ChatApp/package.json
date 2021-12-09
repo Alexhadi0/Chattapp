@@ -1,0 +1,11 @@
+{
+    "name": "alex-chatapp",
+    "version": "0.0.1",
+    "description": "min första socket.io app",
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-session": "^1.17.2",
+        "path": "^0.12.7",
+        "socket.io": "^4.4.0"
+    }
+}
